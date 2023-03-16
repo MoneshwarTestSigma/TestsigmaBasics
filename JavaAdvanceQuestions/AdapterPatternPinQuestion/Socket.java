@@ -1,0 +1,3 @@
+interface Socket {
+    void sockerDetails();
+}

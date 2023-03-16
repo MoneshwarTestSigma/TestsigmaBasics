@@ -1,0 +1,3 @@
+interface Pin {
+    void pinDetails();
+}

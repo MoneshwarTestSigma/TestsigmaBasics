@@ -1,0 +1,3 @@
+interface PinSocket {
+    void pinSocketDetails();
+}
